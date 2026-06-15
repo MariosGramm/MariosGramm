@@ -36,7 +36,6 @@ I approach software engineering with a strong emphasis on **clean architecture, 
 - Prompt Engineering
 - AI Agents Development
 - RAG Architecture (Retrieval-Augmented Generation)
-- PCTF Framework
 - End-to-end AI system design
 
 ---
